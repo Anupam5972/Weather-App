@@ -9,3 +9,7 @@ The CSS file contains styles for the web page, including the weather card and th
 Overall, this is a well-designed and functional weather application that provides a user-friendly interface to retrieve and display current weather information. The code is organized and easy to follow, making it easy to modify or add additional features in the future.
 
 Website Could be accesed at https://weather-app-openweather.netlify.app/
+
+For PC devices
+![image](https://user-images.githubusercontent.com/86146673/226175571-9170f793-ec34-4edd-abdf-64996510891e.png)
+
