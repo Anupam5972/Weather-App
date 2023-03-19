@@ -11,7 +11,9 @@ Overall, this is a well-designed and functional weather application that provide
 Website Could be accesed at https://weather-app-openweather.netlify.app/
 
 It is Responsive Website on PC 
+
 ![image](https://user-images.githubusercontent.com/86146673/226175571-9170f793-ec34-4edd-abdf-64996510891e.png)
 
 On Mobile Devices
+
 ![image](https://user-images.githubusercontent.com/86146673/226175719-738ee27f-64f0-4c42-89b4-d96d68d95e26.png)
