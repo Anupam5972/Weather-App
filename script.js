@@ -2,7 +2,7 @@ const locationForm = document.getElementById('location-form');
 const locationInput = document.getElementById('location-input');
 const weatherInfo = document.getElementById('weather-info');
 
-const API_KEY = 'c278790d931a7010352391e908604df8';
+const API_KEY = 'YOUR_API_KEY';
 
 locationForm.addEventListener('submit', (e) => {
     e.preventDefault();
