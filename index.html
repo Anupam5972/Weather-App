@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Weather App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <center>
+        <div class="container">
+            <h1>Today's Date:</h1>
+            <p id="date"></p>
+            <p id="Location"></p>
+            <h1>Weather App</h1>
+            <form id="location-form">
+                <label for="location-input">Enter Location:&nbsp;</label>
+                <input type="text" id="location-input">
+                <button type="submit">Get Weather</button>
+            </form>
+            <div id="weather-info"></div>
+        </div>
+        <script src="script.js"></script>
+        <script>
+            const currentDate = new Date();
+            document.getElementById('date').innerHTML = currentDate.toDateString();
+        </script>
+    </center>
+</body>
+
+</html>
