@@ -7,3 +7,5 @@ The HTML file contains a form with an input field for the location and a button 
 The CSS file contains styles for the web page, including the weather card and the form elements. The weather card has a background image that changes based on the current weather description and displays information such as the location name, temperature, humidity, wind speed, and sunrise/sunset times.
 
 Overall, this is a well-designed and functional weather application that provides a user-friendly interface to retrieve and display current weather information. The code is organized and easy to follow, making it easy to modify or add additional features in the future.
+
+Website Could be accesed at https://weather-app-openweather.netlify.app/
